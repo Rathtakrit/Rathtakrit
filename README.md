@@ -1,7 +1,7 @@
 # My name is Kiwi Kritarath Thipsoonthonsak
-- 👋 Hi, I’m @Rathtakrit (which is Kritarath read backwards. And yes, it is my real name)
-- 👀 I’m interested in coding, AI, Web Dev, and Tech
-- 🌱 I’m currently learning LLMS, Algoritms, and Web development
+- 👋 You can called me Kiwi, I'm from Thailand
+- 👀 I’m interested in coding, Larege Language Model, Natural Language Processing, and Graph Neural Network
+- 📖 Currently reading lots of stuff to gain more knowledge, but haven't start doing real thing yet lol
 
 <!---
 Rathtakrit/Rathtakrit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
